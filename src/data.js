@@ -52,7 +52,7 @@ const Experiences = [
     },{
     "id":"rec61x18yesrgweGVY99hQq5",
     "order":8,
-    "title":"German Language and Culture",
+    "title":"Engineering, German Language and Culture",
     "dates":"2014",
     "duties":["Gained experience in a diverse and challenging academic environment, collaborating with peers from different backgrounds to complete group projects and presentations.", "Successfully completed a study abroad program at Technische Universität Berlin, with a focus on both German language and engineering topics.","Gained valuable experience in a multicultural and diverse academic environment, fostering cross-cultural communication skills and a global perspective."],
     "company":"Technische Universität Berlin"
